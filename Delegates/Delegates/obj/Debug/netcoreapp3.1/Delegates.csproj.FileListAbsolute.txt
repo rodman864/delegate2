@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/antonio/Desktop/CS133/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/antonio/Desktop/CS133/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/antonio/Desktop/CS133/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/antonio/Desktop/CS133/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/antonio/Desktop/CS133/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.pdb
+/Users/antonio/Desktop/CS133/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.genruntimeconfig.cache
